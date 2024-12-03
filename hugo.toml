@@ -1,6 +1,6 @@
-baseURL = 'https://rheneross.com/'
+baseURL = 'https://blog.thibaud.io/'
 languageCode = 'en-US'
-title = 'rheneross'
+title = "Thibaud's Blog"
 theme = "hugo-bearcub"
 defaultContentLanguage = "en"
 
@@ -8,7 +8,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "rheneross"
+title = "Thibaud's Blog"
 languageName = "English"
 LanguageCode = "en-US"
 contentDir = "content"
@@ -17,14 +17,14 @@ madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
 # The description of your website
-description = "Bear Cub Demo"
+description = "Thibaud's blog"
 
 # The path to your favicon
 favicon = "images/favicon.png"
 
 # This title is used as the site_name on the Hugo's internal opengraph
 # structured data template
-title = "rheneross"
+title = "Thibaud's Blog"
 
 # Dates are displayed following the format below. For more information about
 # formatting, see https://gohugo.io/functions/format/
@@ -51,4 +51,4 @@ generateSocialCard = true
 # email is also added to the footer of each post. You can hide the "reply to"
 # link by using a `hideReply` param in front matter.
 [params.author]
-name = "rheneross" # Your name as shown in the RSS feed metadata
+name = "Thibaud" # Your name as shown in the RSS feed metadata

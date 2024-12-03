@@ -57,7 +57,7 @@ The goal is to be able to tag a window, for example godot, and have it handle by
 It's in rust and not finished at all, but you can still check it out here: https://github.com/thibaudio/rust-nested-window-manager.
 
 ## cherry on top
-This week I even spent some time revamping my [site](https://blog.thibaud.io): I updated the front page a bit, and also added a space to showcase my [projects]({{<ref "projects.md">}}).
+This week I even spent some time revamping my [site](https://blog.thibaud.io): I updated the front page a bit, and also added a space to showcase my [projects]({{<ref "games.md">}}).
 
 ## Next game project
 With that said, it's time to get back in the gamez! This week I'll start working on my new project. For now, all I know is that it will be a 2vs2 multiplayer game with 10-15min session time.  
