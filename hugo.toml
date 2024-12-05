@@ -1,6 +1,6 @@
 baseURL = 'https://blog.thibaud.io/'
 languageCode = 'en-US'
-title = "Thibaud's Blog"
+title = "rheneross"
 theme = "hugo-bearcub"
 defaultContentLanguage = "en"
 
@@ -8,7 +8,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Thibaud's Blog"
+title = "rheneross"
 languageName = "English"
 LanguageCode = "en-US"
 contentDir = "content"
@@ -24,7 +24,7 @@ favicon = "images/favicon.png"
 
 # This title is used as the site_name on the Hugo's internal opengraph
 # structured data template
-title = "Thibaud's Blog"
+title = "rheneross"
 
 # Dates are displayed following the format below. For more information about
 # formatting, see https://gohugo.io/functions/format/
