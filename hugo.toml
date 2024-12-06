@@ -47,7 +47,7 @@ themeStyle = "original"
 # information see layouts/partials/social_card.html
 generateSocialCard = true
 
-bluesky = "https://bsky.app/profile/rheneross.bsky.social"
+bluesky = "https://bsky.app/profile/rheneross.com"
 
 # Author metadata. This is mostly used for the RSS feed of your site, but the
 # email is also added to the footer of each post. You can hide the "reply to"
