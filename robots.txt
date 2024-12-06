@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.thibaud.io/sitemap.xml
