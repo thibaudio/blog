@@ -17,7 +17,7 @@ madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
 # The description of your website
-description = "Thibaud's blog"
+description = "rheneross"
 
 # The path to your favicon
 favicon = "images/favicon.png"

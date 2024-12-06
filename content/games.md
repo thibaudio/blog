@@ -5,7 +5,7 @@ draft: false
 params: 
   hideReply: true
 ---
-You can find my game jams entry on [itch.io](https://thibaudio.itch.io/).  
+You can find my game jams entry on [itch.io](https://rheneross.itch.io/).  
 
 ## BloodLoop
 I built the full multiplayer and live-service stack for [BloodLoop](https://www.bloodloop.com), a competitive hero shooter made in Unreal Engine 5, including the infrastructure, the backend services, the game client integrations, the tools and the build and deployment pipelines.
