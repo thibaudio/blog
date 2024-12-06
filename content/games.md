@@ -1,5 +1,5 @@
 ---
-title: "Games"
+title: "games"
 date: 2022-10-06T22:41:38+02:00
 draft: false
 params: 
